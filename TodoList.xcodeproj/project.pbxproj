@@ -14,6 +14,7 @@
 		1903C6BC2C145DF0004B9859 /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1903C6BB2C145DF0004B9859 /* ListRowView.swift */; };
 		1903C6BE2C145FF1004B9859 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1903C6BD2C145FF1004B9859 /* AddView.swift */; };
 		1903C6C12C1462B2004B9859 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1903C6C02C1462B2004B9859 /* ItemModel.swift */; };
+		1977518D2C19656D00BC9E37 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1977518C2C19656D00BC9E37 /* ListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		1903C6BB2C145DF0004B9859 /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
 		1903C6BD2C145FF1004B9859 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		1903C6C02C1462B2004B9859 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
+		1977518C2C19656D00BC9E37 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		1977518B2C19648E00BC9E37 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				1977518C2C19656D00BC9E37 /* ListViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 			files = (
 				1903C6C12C1462B2004B9859 /* ItemModel.swift in Sources */,
 				1903C6BE2C145FF1004B9859 /* AddView.swift in Sources */,
+				1977518D2C19656D00BC9E37 /* ListViewModel.swift in Sources */,
 				1903C6AB2C145BED004B9859 /* TodoListApp.swift in Sources */,
 				1903C6BA2C145C99004B9859 /* ListView.swift in Sources */,
 				1903C6BC2C145DF0004B9859 /* ListRowView.swift in Sources */,
